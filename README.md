@@ -28,7 +28,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-using-html-css-grid-flexbox-and-media-query-EN61jalY-]
 - Live Site URL: [https://genesisgran.github.io/single-price-grid/]
 
 ## Built with
